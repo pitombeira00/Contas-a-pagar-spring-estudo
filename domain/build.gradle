@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.contas.a.pagar.estudo'
+group = 'com.contas.a.pagar.estudo.domain'
 version = '1.0-SNAPSHOT'
 
 repositories {
